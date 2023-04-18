@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./ion-python-master/ion-python-master",
+        "./ion-python-master/ion-python-master/amazon",
+        "./ion-python-master/ion-python-master/amazon/ion"
+    ]
+}
