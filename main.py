@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-from DeScribe.utils import *
+from _pydescribe.utils import *
 
 source = Path("partial erase/pre_erase")
 
