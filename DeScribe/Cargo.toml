@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 byteorder = "1.4.3"
-num-traits = "0.2.15"
-num-derive = "0.3.3"
+num_enum = "0.6.1"
+ion-rs = "0.17.0"
